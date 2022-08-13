@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+    padding: 4px;
+}
+
+#back_btn {
+    align-items: right;
+}
+
+.label {
+    font-size: small;
+    font-weight: bold;
+}
+
+h2 {
+    width: 100%;
+    font-weight: bold;
+}
